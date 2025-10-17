@@ -2,16 +2,12 @@
 
 This project was originally built as part of a #DearJuniorDev Hackahon, in which each team had a week to build a web app that teaches about the solar system.
 
-You can see & access this api here: <https://solar-system-api-fc8bdf204aa5.herokuapp.com>
+You can see & access this api here: <https://solar-system-api-fc8bdf204aa5.herokuapp.com>.
 
 ### Front End
 
 You can find the front end repository here: 
 - <https://github.com/tungolra/solar-system-hackathon>
-
-
-And access the running project here: 
-- <https://solar-system-hackathon.vercel.app>
 
 ## Project Team Members:
 
